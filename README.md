@@ -14,23 +14,6 @@ This project analyzes e-commerce transactions from the **Olist Brazilian E-Comme
 - **Excel / Google Sheets**  
 - **Kaggle Dataset**: [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-### 📁 Project Structure
-ecommerce-sales-analysis/
-│
-├── data/
-│ ├── raw/ # Original Kaggle CSV files
-│ └── cleaned/ # Cleaned & merged data exported from R
-│
-├── scripts/
-│ ├── data_cleaning.R # Data import, cleaning, merging
-│ ├── exploratory_analysis.R # EDA, trends, and visualizations
-│ └── export_for_tableau.R # Final cleaned dataset for Tableau
-│
-├── tableau_dashboard/
-│ ├── dashboard_screenshots/ # PNG screenshots for README
-│ └── ecommerce_dashboard.twbx # Tableau workbook
-│
-└── README.md
 ### ⚙️ Project Workflow
 
 #### **Step 1: Data Cleaning & Preparation (R)**
